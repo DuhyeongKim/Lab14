@@ -3,8 +3,8 @@
  */
 package Lab14;
 
-public class Library {
-    public boolean someLibraryMethod() {
-        return true;
-    }
-}
+//public class Library {
+    //public boolean someLibraryMethod() {
+        //return true;
+    //}
+//}
